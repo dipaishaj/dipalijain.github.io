@@ -25,7 +25,7 @@ title: Appendices
 - [IoT Laboratory Manual (Sample)](/assets/IoT_Lab_Manual.pdf)
 
 ## Student Project Samples
-- [IoT Weather Reporting System – Student Presentation](/assets/IoT_Weather_Project.pptx)
+- [IoT Weather Reporting System – Student Presentation](/assets/IoT_Weather_Project.pdf)
 
 ## Recognition & Awards
 - [Letter of Appreciation – Quality Teaching](/assets/Letter_Quality_Teaching.pdf)
