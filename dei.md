@@ -1,15 +1,16 @@
 ---
 layout: default
 title: DEI
+permalink: /dei/
 ---
 
 <p align="center">
-  <a href="{{ 'index.html' | relative_url }}">Overview</a> ·
-  <a href="{{ 'teaching.html' | relative_url }}">Teaching Experience</a> ·
-  <a href="{{ 'evaluations.html' | relative_url }}">Evaluations</a> ·
-  <a href="{{ 'mentoring.html' | relative_url }}">Mentoring</a> ·
-  <a href="{{ 'dei.html' | relative_url }}">DEI</a> ·
-  <a href="{{ 'appendices.html' | relative_url }}">Appendices</a>
+  <a href="{{ '/' | relative_url }}">Overview</a> ·
+  <a href="{{ '/teaching/' | relative_url }}">Teaching Experience</a> ·
+  <a href="{{ '/evaluations/' | relative_url }}">Evaluations</a> ·
+  <a href="{{ '/mentoring/' | relative_url }}">Mentoring</a> ·
+  <a href="{{ '/dei/' | relative_url }}">DEI</a> ·
+  <a href="{{ '/appendices/' | relative_url }}">Appendices</a>
 </p>
 <hr/>
 
