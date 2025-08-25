@@ -3,6 +3,7 @@ layout: default
 title: Mentoring
 ---
 
+
 <p align="center">
   <a href="/index.html">Overview</a> ·
   <a href="/teaching.html">Teaching Experience</a> ·
@@ -11,8 +12,8 @@ title: Mentoring
   <a href="/dei.html">DEI</a> ·
   <a href="/appendices.html">Appendices</a>
 </p>
-
 <hr/>
+
 
 # Mentoring & Advising
 
@@ -20,13 +21,12 @@ Highlight supervision of student projects (UG/Grad), outcomes (awards, publicati
 
 ## Selected Projects
 - **Analog Circuit Security (UG Capstone):** supervised PCB prototyping + SPICE modeling → poster prize.
-- **Battery Anomaly Detection for Drones:** mentored a student team on MSP432-based data collection and TinyML baseline.
-- **Graph Learning for Circuits:** guided research assistants to prepare datasets and evaluation scripts.
+- **Battery Anomaly Detection for Drones:** mentored MSP432-based data collection + TinyML baseline.
+- **Graph Learning for Circuits:** guided dataset preparation and evaluation scripts.
 
-## Outcomes
-- Student co-authorships at conferences (ITC, ASP-DAC, HOST).  
-- Multiple capstones completed; several students placed in **semiconductor/AI** roles.
-
-## Mentoring Philosophy
-- Set **milestone roadmaps**, maintain weekly check-ins, and use lightweight design docs.
-- Emphasize **inclusive teamwork**, reflective journaling, and research integrity.
+### Student Project Sample
+- **IoT-Based Weather Reporting System** (2020)  
+  *Students:* Akshay Chavan, Radhika Kamble, Tanvi Nanekar, Anjali Rane  
+  *Guide:* Prof. Dipali Joshi-Jain  
+  **Highlights:** Cloud-connected weather station using Raspberry Pi/ESP8266; sensors for temperature, humidity, pressure, rain; ThingSpeak cloud; mobile/web dashboard.  
+  [Presentation (PPTX)](/assets/IoT_Weather_Project.pptx)

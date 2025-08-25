@@ -3,6 +3,7 @@ layout: default
 title: Evaluations
 ---
 
+
 <p align="center">
   <a href="/index.html">Overview</a> ·
   <a href="/teaching.html">Teaching Experience</a> ·
@@ -11,24 +12,28 @@ title: Evaluations
   <a href="/dei.html">DEI</a> ·
   <a href="/appendices.html">Appendices</a>
 </p>
-
 <hr/>
+
 
 # Evidence of Teaching Effectiveness
 
-Summarize your evaluations and provide context (course level, class size). Add a short interpretation: what worked, what you changed, what improved.
+Summarize evaluations and provide context (course level, class size). Add a brief interpretation of what you changed and how it improved learning.
 
 ## Summary Table (example)
 
-| Semester | Course | Role | Class Size | Overall Rating (/5) | Dept Avg |
+| Year | Course | Role | Class Size | Overall Rating (/5) | Dept Avg |
 |---|---|---|---:|---:|---:|
-| Fall 2023 | Fundamentals I | TA/Guest | 110 | 4.6 | 4.2 |
-| Spring 2024 | Embedded Systems Lab | Instructor | 45 | 4.7 | 4.3 |
+| 2018-19 | Image Processing | Instructor | 60 | 4.7 | 4.2 |
+| 2018-19 | Process Automation | Instructor | 60 | 4.6 | 4.2 |
+| 2020-21 | Internet of Things | Instructor | 60 | 4.7 | 4.3 |
+| 2020-21 |Biosensors and signal processing| Instructor | 60 | 4.5 | 4.3 |
 
-> Selected comments (anonymized): “Clear labs and timely feedback.” · “Loved the project cadence and real-world examples.”
+> Selected comments (anonymized): “one of the best faculty.” · “Best professor ever.”
 
 ## Visual Summary
 
-![Evaluation summary chart](/assets/eval_summary_placeholder.png)
+![Evaluation summary chart](/assets/eval_summary.png)
 
-👉 **Full reports (PDF):** [UTD_Fall2023_Evals.pdf](/assets/UTD_Fall2023_Evals.pdf) *(link your files)*
+ **Full reports (PDF):** 
+- [/assets/RGIT_Evals_2019.pdf](/assets/RGIT_Evals_2019.pdf)
+- [/assets/RGIT_Evals_2019.pdf](/assets/RGIT_Evals_2021.pdf)

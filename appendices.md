@@ -3,6 +3,7 @@ layout: default
 title: Appendices
 ---
 
+
 <p align="center">
   <a href="/index.html">Overview</a> ·
   <a href="/teaching.html">Teaching Experience</a> ·
@@ -11,15 +12,23 @@ title: Appendices
   <a href="/dei.html">DEI</a> ·
   <a href="/appendices.html">Appendices</a>
 </p>
-
 <hr/>
+
 
 # Appendices & Downloads
 
-Upload artifacts here and link them below.
+## Curriculum Development
+- [IoT Syllabus 2016–17 (CBCGS)](/assets/IoT_Syllabus_2016.pdf)
+- [Minutes of Meeting: IoT Syllabus Revision 2020](/assets/IoT_Syllabus_Revision_2020.pdf)
 
-- Teaching Statement (PDF): [/assets/Teaching_Statement.pdf](/assets/Teaching_Statement.pdf)
-- Sample Syllabi: [/assets/Fundamentals_Syllabus.pdf](/assets/Fundamentals_Syllabus.pdf)
-- Lab Manuals/Assignments: add files and link here
-- Evaluation Reports: add files and link here
-- Teaching Awards/Certificates: add files and link here
+## Lab Materials
+- [IoT Laboratory Manual (Sample)](/assets/IoT_Lab_Manual.pdf)
+
+## Student Project Samples
+- [IoT Weather Reporting System – Student Presentation](/assets/IoT_Weather_Project.pptx)
+
+## Recognition & Awards
+- [Letter of Appreciation – Quality Teaching](/assets/Letter_Quality_Teaching.pdf)
+- [Letter of Appreciation – Contribution to IoT Syllabus Revision](/assets/Letter_Syllabus_Revision.pdf)
+- [ISA Best Faculty Advisor Award](/assets/ISA_Best_Faculty_Advisor.pdf)
+- [Yoga Teacher’s Training Certificate](/assets/Yoga_Teacher_Certificate.pdf)

@@ -1,7 +1,9 @@
 theme: jekyll-theme-minimal
 title: "Teaching Portfolio — Dipali Jain"
-description: "Teaching philosophy, experience, evidence of effectiveness, mentoring, and DEI."
-logo: /assets/headshot_placeholder.png
+description: "Teaching philosophy, experience, evidence of effectiveness, mentoring, DEI, and recognition."
+logo: /assets/headshot.png
+url: "https://dipalijain.github.io"
+baseurl: ""
 show_downloads: false
 author: Dipali Jain
 github:
